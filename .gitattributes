@@ -1,7 +1,1 @@
-* linguist-vendored
-*.js linguist-vendored=true
-*.ipynb linguist-language=Python
-*.csv linguist-language=Javascript
-dist/* linguist-vendored
-jquery.js linguist-vendored=true
 
